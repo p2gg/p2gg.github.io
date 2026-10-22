@@ -4,9 +4,9 @@
     <name>p2gg</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <id>https://p2gg.com/</id>
-  <link href="https://p2gg.com/" rel="alternate"/>
-  <link href="https://p2gg.com/atom.xml" rel="self"/>
+  <id>https://p2gg.github.io/</id>
+  <link href="https://p2gg.github.io/" rel="alternate"/>
+  <link href="https://p2gg.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, p2gg</rights>
   <subtitle>希望世界更开源, 透明与自由.</subtitle>
   <title>p2gg</title>
@@ -15,9 +15,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Game" scheme="https://p2gg.com/tags/Game/"/>
-    <id>https://p2gg.com/2026/roco-tool/</id>
-    <link href="https://p2gg.com/2026/roco-tool/"/>
+    <category term="Game" scheme="https://p2gg.github.io/tags/Game/"/>
+    <id>https://p2gg.github.io/2026/roco-tool/</id>
+    <link href="https://p2gg.github.io/2026/roco-tool/"/>
     <published>2026-04-05T04:00:00.000Z</published>
     <summary>游戏相关工具.</summary>
     <title>洛克王国:世界, 图鉴工具, 属性克制计算器</title>
@@ -27,8 +27,8 @@
     <author>
       <name>p2gg</name>
     </author>
-    <id>https://p2gg.com/2026/awesome-shopping/</id>
-    <link href="https://p2gg.com/2026/awesome-shopping/"/>
+    <id>https://p2gg.github.io/2026/awesome-shopping/</id>
+    <link href="https://p2gg.github.io/2026/awesome-shopping/"/>
     <published>2026-02-25T13:00:00.000Z</published>
     <summary>精选好物.</summary>
     <title>2025及历年个人年度好物推荐</title>
@@ -38,8 +38,8 @@
     <author>
       <name>p2gg</name>
     </author>
-    <id>https://p2gg.com/2025/lenses-about-dry-eyes/</id>
-    <link href="https://p2gg.com/2025/lenses-about-dry-eyes/"/>
+    <id>https://p2gg.github.io/2025/lenses-about-dry-eyes/</id>
+    <link href="https://p2gg.github.io/2025/lenses-about-dry-eyes/"/>
     <published>2025-10-15T16:00:00.000Z</published>
     <summary>干眼后的物理防护经历.</summary>
     <title>干眼人的湿房镜, 巩膜镜佩戴体验</title>
@@ -49,9 +49,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Dev" scheme="https://p2gg.com/tags/Dev/"/>
-    <id>https://p2gg.com/2025/echo-request-by-cloudflare-workers/</id>
-    <link href="https://p2gg.com/2025/echo-request-by-cloudflare-workers/"/>
+    <category term="Dev" scheme="https://p2gg.github.io/tags/Dev/"/>
+    <id>https://p2gg.github.io/2025/echo-request-by-cloudflare-workers/</id>
+    <link href="https://p2gg.github.io/2025/echo-request-by-cloudflare-workers/"/>
     <published>2025-07-31T05:00:00.000Z</published>
     <summary>边缘计算实现在线 Mock 小工具.</summary>
     <title>基于 Cloudflare Workers 回显请求</title>
@@ -61,9 +61,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    <id>https://p2gg.com/2024/annual-summary/</id>
-    <link href="https://p2gg.com/2024/annual-summary/"/>
+    <category term="Essay" scheme="https://p2gg.github.io/tags/Essay/"/>
+    <id>https://p2gg.github.io/2024/annual-summary/</id>
+    <link href="https://p2gg.github.io/2024/annual-summary/"/>
     <published>2024-12-25T16:00:00.000Z</published>
     <summary>What doesn't kill you makes you stronger.</summary>
     <title>2024年年度碎碎念</title>
@@ -73,9 +73,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    <id>https://p2gg.com/2023/annual-summary/</id>
-    <link href="https://p2gg.com/2023/annual-summary/"/>
+    <category term="Essay" scheme="https://p2gg.github.io/tags/Essay/"/>
+    <id>https://p2gg.github.io/2023/annual-summary/</id>
+    <link href="https://p2gg.github.io/2023/annual-summary/"/>
     <published>2023-12-22T16:00:00.000Z</published>
     <summary>
       <![CDATA[<p>copy 2020, paste 2023.</p>]]>
@@ -87,10 +87,10 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    <category term="Lifestyle" scheme="https://p2gg.com/tags/Lifestyle/"/>
-    <id>https://p2gg.com/2022/life-notes/</id>
-    <link href="https://p2gg.com/2022/life-notes/"/>
+    <category term="Note" scheme="https://p2gg.github.io/tags/Note/"/>
+    <category term="Lifestyle" scheme="https://p2gg.github.io/tags/Lifestyle/"/>
+    <id>https://p2gg.github.io/2022/life-notes/</id>
+    <link href="https://p2gg.github.io/2022/life-notes/"/>
     <published>2022-01-28T16:00:00.000Z</published>
     <summary>网络文章合集整理. 选购, 种草笔记.</summary>
     <title>丁香生活研究所的文章整理</title>
@@ -100,10 +100,10 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Phone" scheme="https://p2gg.com/tags/Phone/"/>
-    <category term="Android" scheme="https://p2gg.com/tags/Android/"/>
-    <id>https://p2gg.com/2021/how-to-use-android/</id>
-    <link href="https://p2gg.com/2021/how-to-use-android/"/>
+    <category term="Phone" scheme="https://p2gg.github.io/tags/Phone/"/>
+    <category term="Android" scheme="https://p2gg.github.io/tags/Android/"/>
+    <id>https://p2gg.github.io/2021/how-to-use-android/</id>
+    <link href="https://p2gg.github.io/2021/how-to-use-android/"/>
     <published>2021-04-14T16:00:00.000Z</published>
     <summary>使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用?</summary>
     <title>如何使用 Android</title>
@@ -113,9 +113,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
-    <id>https://p2gg.com/2021/cookie-and-session/</id>
-    <link href="https://p2gg.com/2021/cookie-and-session/"/>
+    <category term="Network" scheme="https://p2gg.github.io/tags/Network/"/>
+    <id>https://p2gg.github.io/2021/cookie-and-session/</id>
+    <link href="https://p2gg.github.io/2021/cookie-and-session/"/>
     <published>2021-03-15T16:00:00.000Z</published>
     <summary>Cookie, Session, Token, SessionId 到底是什么?</summary>
     <title>Cookie 和 Session</title>
@@ -125,9 +125,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="MySQL" scheme="https://p2gg.com/tags/MySQL/"/>
-    <id>https://p2gg.com/2021/mysql-learning/</id>
-    <link href="https://p2gg.com/2021/mysql-learning/"/>
+    <category term="MySQL" scheme="https://p2gg.github.io/tags/MySQL/"/>
+    <id>https://p2gg.github.io/2021/mysql-learning/</id>
+    <link href="https://p2gg.github.io/2021/mysql-learning/"/>
     <published>2021-02-21T16:00:00.000Z</published>
     <summary>关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.</summary>
     <title>MySQL 的学习</title>
@@ -137,9 +137,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    <id>https://p2gg.com/2021/servlet-filter/</id>
-    <link href="https://p2gg.com/2021/servlet-filter/"/>
+    <category term="Java" scheme="https://p2gg.github.io/tags/Java/"/>
+    <id>https://p2gg.github.io/2021/servlet-filter/</id>
+    <link href="https://p2gg.github.io/2021/servlet-filter/"/>
     <published>2021-02-19T16:00:00.000Z</published>
     <summary>记录一些 Tomcat 容器中常见的 Filter 和作用.</summary>
     <title>Servlet 中的 Filter</title>
@@ -149,9 +149,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
-    <id>https://p2gg.com/2021/books-about-computer-science/</id>
-    <link href="https://p2gg.com/2021/books-about-computer-science/"/>
+    <category term="Book" scheme="https://p2gg.github.io/tags/Book/"/>
+    <id>https://p2gg.github.io/2021/books-about-computer-science/</id>
+    <link href="https://p2gg.github.io/2021/books-about-computer-science/"/>
     <published>2020-12-31T16:00:00.000Z</published>
     <summary>
       <![CDATA[<p>计算机相关的书单, 非计算机类的书单请请看<a href="/2020/the-book-i-read">这里这里</a>. </p>]]>
@@ -163,9 +163,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    <id>https://p2gg.com/2020/annual-summary/</id>
-    <link href="https://p2gg.com/2020/annual-summary/"/>
+    <category term="Essay" scheme="https://p2gg.github.io/tags/Essay/"/>
+    <id>https://p2gg.github.io/2020/annual-summary/</id>
+    <link href="https://p2gg.github.io/2020/annual-summary/"/>
     <published>2020-12-29T16:00:00.000Z</published>
     <summary>2020这年我在想些什么呢?</summary>
     <title>2020年年度小结</title>
@@ -175,10 +175,10 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    <category term="Maven" scheme="https://p2gg.com/tags/Maven/"/>
-    <id>https://p2gg.com/2020/maven-notes/</id>
-    <link href="https://p2gg.com/2020/maven-notes/"/>
+    <category term="Java" scheme="https://p2gg.github.io/tags/Java/"/>
+    <category term="Maven" scheme="https://p2gg.github.io/tags/Maven/"/>
+    <id>https://p2gg.github.io/2020/maven-notes/</id>
+    <link href="https://p2gg.github.io/2020/maven-notes/"/>
     <published>2020-11-29T16:00:00.000Z</published>
     <summary>Maven 笔记.</summary>
     <title>Maven 笔记</title>
@@ -188,10 +188,10 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
-    <id>https://p2gg.com/2020/basic-computer-network/</id>
-    <link href="https://p2gg.com/2020/basic-computer-network/"/>
+    <category term="Note" scheme="https://p2gg.github.io/tags/Note/"/>
+    <category term="Network" scheme="https://p2gg.github.io/tags/Network/"/>
+    <id>https://p2gg.github.io/2020/basic-computer-network/</id>
+    <link href="https://p2gg.github.io/2020/basic-computer-network/"/>
     <published>2020-10-30T16:00:00.000Z</published>
     <summary>记录计算机网络学习的笔记.</summary>
     <title>计算机网络基础知识</title>
@@ -201,11 +201,11 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    <category term="Spring" scheme="https://p2gg.com/tags/Spring/"/>
-    <id>https://p2gg.com/2020/spring-learning/</id>
-    <link href="https://p2gg.com/2020/spring-learning/"/>
+    <category term="Note" scheme="https://p2gg.github.io/tags/Note/"/>
+    <category term="Java" scheme="https://p2gg.github.io/tags/Java/"/>
+    <category term="Spring" scheme="https://p2gg.github.io/tags/Spring/"/>
+    <id>https://p2gg.github.io/2020/spring-learning/</id>
+    <link href="https://p2gg.github.io/2020/spring-learning/"/>
     <published>2020-10-26T16:00:00.000Z</published>
     <summary>记录 Spring 的学习笔记</summary>
     <title>Spring 的学习</title>
@@ -215,10 +215,10 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
-    <id>https://p2gg.com/2020/the-book-i-read/</id>
-    <link href="https://p2gg.com/2020/the-book-i-read/"/>
+    <category term="Essay" scheme="https://p2gg.github.io/tags/Essay/"/>
+    <category term="Book" scheme="https://p2gg.github.io/tags/Book/"/>
+    <id>https://p2gg.github.io/2020/the-book-i-read/</id>
+    <link href="https://p2gg.github.io/2020/the-book-i-read/"/>
     <published>2020-05-13T16:00:00.000Z</published>
     <summary>
       <![CDATA[<p>非计算机相关的书单. 计算机类的书单请请看<a href="/2021/books-about-computer-science">这里这里</a>. </p>]]>
@@ -230,9 +230,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Win10" scheme="https://p2gg.com/tags/Win10/"/>
-    <id>https://p2gg.com/2020/scoop-notes/</id>
-    <link href="https://p2gg.com/2020/scoop-notes/"/>
+    <category term="Win10" scheme="https://p2gg.github.io/tags/Win10/"/>
+    <id>https://p2gg.github.io/2020/scoop-notes/</id>
+    <link href="https://p2gg.github.io/2020/scoop-notes/"/>
     <published>2020-05-06T16:00:00.000Z</published>
     <summary>简单记录下 Scoop 使用指南.</summary>
     <title>Scoop 笔记</title>
@@ -242,9 +242,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    <id>https://p2gg.com/2020/shallow-clone-and-deep-clone-of-string-in-java/</id>
-    <link href="https://p2gg.com/2020/shallow-clone-and-deep-clone-of-string-in-java/"/>
+    <category term="Java" scheme="https://p2gg.github.io/tags/Java/"/>
+    <id>https://p2gg.github.io/2020/shallow-clone-and-deep-clone-of-string-in-java/</id>
+    <link href="https://p2gg.github.io/2020/shallow-clone-and-deep-clone-of-string-in-java/"/>
     <published>2020-03-24T16:00:00.000Z</published>
     <summary>Java 中 String 对象是如何进行克隆的</summary>
     <title>关于 Java 中 String 类的浅克隆和深克隆</title>
@@ -254,9 +254,9 @@
     <author>
       <name>p2gg</name>
     </author>
-    <category term="Win10" scheme="https://p2gg.com/tags/Win10/"/>
-    <id>https://p2gg.com/2020/how-to-use-windows10/</id>
-    <link href="https://p2gg.com/2020/how-to-use-windows10/"/>
+    <category term="Win10" scheme="https://p2gg.github.io/tags/Win10/"/>
+    <id>https://p2gg.github.io/2020/how-to-use-windows10/</id>
+    <link href="https://p2gg.github.io/2020/how-to-use-windows10/"/>
     <published>2020-02-07T16:00:00.000Z</published>
     <summary>使用 Windows 10 的指南. 正确使用姿势是什么?</summary>
     <title>如何使用 windows10</title>
